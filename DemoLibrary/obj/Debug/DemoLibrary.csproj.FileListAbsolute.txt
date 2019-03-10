@@ -1,0 +1,6 @@
+c:\users\tim\Source\Repos\DependencyInjectionDemo\DemoLibrary\bin\Debug\DemoLibrary.dll
+c:\users\tim\Source\Repos\DependencyInjectionDemo\DemoLibrary\bin\Debug\DemoLibrary.pdb
+c:\users\tim\Source\Repos\DependencyInjectionDemo\DemoLibrary\obj\Debug\DemoLibrary.csproj.CoreCompileInputs.cache
+c:\users\tim\Source\Repos\DependencyInjectionDemo\DemoLibrary\obj\Debug\DemoLibrary.dll
+c:\users\tim\Source\Repos\DependencyInjectionDemo\DemoLibrary\obj\Debug\DemoLibrary.pdb
+c:\users\tim\Source\Repos\DependencyInjectionDemo\DemoLibrary\obj\Debug\DemoLibrary.csprojAssemblyReference.cache
